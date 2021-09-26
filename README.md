@@ -1,7 +1,7 @@
 <head>
 <h1>DKTE's Super spacility Hospital of Ichalkranji.</h1>
 <h1 style="background-color:DodgerBlue;"> !! We Provide best Services to Patient !!</h1>
-<p>As DKTE's Super spacility Hospital of Ichalkranji. ,  successfully completes 10 years, it may be difficult for visualize the early days when this medical college was almost literally started on a shoestring ! </p>
+<p> As DKTE's Super spacility Hospital of Ichalkranji. , WE successfully completes 10 years, it may be difficult for visualize the early days when this medical college was almost literally started on a shoestring ! </p>
 <h2> Dr. SHUBHAM PATIL (M.B.B.S) </h2>
 <h3>contact: +91 9168732056 </h3>
 <h4>EMail id: xyz1@gmail.com </h4>
